@@ -8,3 +8,4 @@
 Добавили текст через браузер. Add english text in browser.
 
 ## Add text to end
+*Добавили текст в другой ветке - readmeedit*
